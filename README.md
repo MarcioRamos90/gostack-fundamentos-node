@@ -1,10 +1,7 @@
-# gostack-fundamentos-node
-Challange Rocketseat
+## Rocketseat challenge to train some SOLID principles, like:
 
-Challenge to train some SOLID principles, like:
-
-SRP (Single Responsability Principle)
+### SRP (Single Responsability Principle)
 
 and
 
-DIP (Dependency Inversion Principle).
+### DIP (Dependency Inversion Principle).
