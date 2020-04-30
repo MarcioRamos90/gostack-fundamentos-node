@@ -4,4 +4,4 @@
 
 and
 
-##### DIP (Dependency Inversion Principle).
+##### DIP (Dependency Inversion Principle)
